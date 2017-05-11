@@ -1,0 +1,6 @@
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\bin\Debug\XbrlFiles.exe.config
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\bin\Debug\XbrlFiles.exe
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\bin\Debug\XbrlFiles.pdb
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\obj\Debug\XbrlFiles.csprojResolveAssemblyReference.cache
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\obj\Debug\XbrlFiles.exe
+C:\MyTFS\PwC Projects\dotNET\DmsBizTalkSiteManager\TestTools\ManagingFilesInDMS\XbrlFiles\obj\Debug\XbrlFiles.pdb
